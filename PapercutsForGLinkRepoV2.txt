@@ -1,0 +1,1 @@
+{"Name":"Papercuts","Image","BASE64 IMAGE HERE","Maintainer":"eaic","Packages":"https://easrng.github.io/papercuts-repo/packages.json","Repository Format":"GLinkRepoV2"}
